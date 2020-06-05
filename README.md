@@ -24,6 +24,10 @@ This project follows and extends the [data cleaning class from Dataquest](https:
 
 #### Reference
 https://www.dataquest.io/course/data-exploration/
+
 https://github.com/TimAlbers/Projects/tree/master/
+
 https://github.com/python-visualization/folium/issues/1202
+
 https://stackoverflow.com/questions/56876620/unsure-how-to-use-colormap-with-folium-marker-plot
+
