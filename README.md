@@ -2,6 +2,10 @@
 
 This project follows and extends the [data cleaning class from Dataquest](https://www.dataquest.io/course/data-exploration/).
 
+
+[Please click here for faster access to the Jupyter Notebook](https://nbviewer.jupyter.org/github/tainangao/NYC-highschool-SAT/blob/master/data_analysis.ipynb)
+
+
 ## Data Sources
 
 `ap_2010.csv` - Data on [AP test results](https://data.cityofnewyork.us/Education/2010-AP-College-Board-School-Level-Results/itfs-ms3e)
@@ -31,3 +35,6 @@ https://github.com/python-visualization/folium/issues/1202
 
 https://stackoverflow.com/questions/56876620/unsure-how-to-use-colormap-with-folium-marker-plot
 
+
+Overview of all the data points (the warmer the color, the higher the SAT score):
+![NYC_highschool_SAT_scores](https://github.com/tainangao/NYC-highschool-SAT/blob/master/nyc_edu_map.png "NYC high school SAT score")
