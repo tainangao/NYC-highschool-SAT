@@ -36,5 +36,5 @@ https://github.com/python-visualization/folium/issues/1202
 https://stackoverflow.com/questions/56876620/unsure-how-to-use-colormap-with-folium-marker-plot
 
 
-Overview of all the data points (the warmer the color, the higher the SAT score):
+Overview of all the data points:
 ![NYC_highschool_SAT_scores](https://github.com/tainangao/NYC-highschool-SAT/blob/master/nyc_edu_map.png "NYC high school SAT score")
